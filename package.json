@@ -24,7 +24,6 @@
     "api:doc": "apidoc -i src -o docs",
     "docs:dev": "vuepress dev documentation",
     "docs:build": "vuepress build documentation",
-    "build:image": "scripty",
     "deploy:image": "scripty"
   },
   "dependencies": {
